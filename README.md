@@ -1,159 +1,75 @@
-<!-- ===================== HEADER ===================== -->
+<img align="center" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Adithyan%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">Adithyan M</h1>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Adithyan</strong>
+</h1>
+
+<h3>AI • Cybersecurity • Secure Systems Engineering</h3>
+
+<div align="left">
+  <img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g4eGJ4eWQ2eTVxOXE3Z2p3ZGFxZXE5dTB0a2VqYzF3b2Z1a2Q3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" />
+
+  <p>
+    I build secure AI-powered systems focused on threat detection, vulnerability analysis, 
+    and intelligent automation.  
+    My work combines <strong>LLMs, penetration testing, and secure backend architecture</strong> 
+    to design systems that are both intelligent and resilient.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Kerala,_India-111111?style=for-the-badge" />
+    <a href="mailto:itsadithyanm@gmail.com">
+      <img src="https://img.shields.io/badge/📧_itsadithyanm@gmail.com-111111?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/🔐_AI_Security_Research-111111?style=for-the-badge" />
+  </p>
+</div>
+
+<br clear="all" />
+
+---
+
+## 🛠 Core Stack
 
 <p align="center">
-AI & Cybersecurity Professional | Secure AI Systems | Threat Detection | Vulnerability Research
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,django,postgresql,docker,linux,git" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+
 </p>
 
-<p align="center">
-Kerala, India • itsadithyanm@gmail.com
-</p>
-
 ---
 
-## 🚀 About Me
+## 🔐 Security & AI Focus
 
-I design and build **secure AI-driven systems** with a strong focus on:
-
-- AI Security & LLM Risk Analysis  
-- Automated Penetration Testing  
+- LLM Security & Prompt Injection Testing  
 - Retrieval-Augmented Generation (RAG)  
-- Secure API & Backend Architecture  
-- Threat Detection & SIEM Monitoring  
-- Web & Mobile Application Security  
-
-My work combines **Artificial Intelligence and Cybersecurity** to create intelligent systems that are secure, scalable, and production-ready.
-
----
-
-## 🧠 Technical Expertise
-
-### 🔹 AI & Machine Learning
-- PyTorch  
-- Hugging Face Transformers  
-- Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- LangChain  
-- Prompt Engineering  
-- AI Threat Modeling  
-
-### 🔹 Cybersecurity
-- VAPT (Web, Mobile, Network)  
-- OWASP Top 10  
-- Prompt Injection Testing  
-- AI Model Security Assessment  
-- Threat Detection Engineering  
-- SIEM Monitoring  
-
-### 🔹 Security Tools
-- Burp Suite  
-- Nmap  
-- Metasploit  
-- Wireshark  
-- OWASP ZAP  
-- Nessus  
-- SQLmap  
-
-### 🔹 Development & Infrastructure
-- Python  
-- FastAPI  
-- Django REST  
-- PostgreSQL  
-- Docker  
-- Git  
-- Linux  
+- Automated Penetration Testing (AI-assisted)  
+- OWASP-based Web & API Security  
+- SIEM Monitoring & Threat Detection  
+- Secure API Architecture  
 
 ---
 
-## 🏗️ Experience
+## 🚀 Selected Work
 
-### AI R&D and Security Engineer  
-**Talrop | Apr 2025 – Present**
+**AI Pentest LLM Security Model**  
+LLM-powered automated penetration testing system integrating RAG for contextual vulnerability detection.
 
-- Developed LLM-based threat detection systems  
-- Performed AI security assessments & prompt injection testing  
-- Designed secure AI APIs with model risk mitigation  
-- Implemented SIEM-integrated anomaly detection workflows  
-- Contributed to responsible AI governance and secure deployment  
+**Advanced AI Voice Assistant**  
+Secure FastAPI backend with LLM orchestration, validation layers, and modular architecture.
 
----
-
-### Image Proofreader (Freelance)  
-**Chooch AI | Jun 2024 – Dec 2025**
-
-- Validated 5,000+ image annotations for ML datasets  
-- Identified 1,000+ data defects to improve training accuracy  
+**Practical Vulnerability Research**  
+Hands-on exploitation and remediation of SQLi, XSS, auth bypass, and insecure configurations.
 
 ---
 
-### Full Stack Developer  
-**Steyp | Apr 2023 – Apr 2024**
+## 📊 GitHub Activity
 
-- Built secure backend services using Django REST & PostgreSQL  
-- Implemented JWT authentication & RBAC  
-- Applied OWASP secure coding practices  
-- Optimized database and API performance  
-
----
-
-## 🔬 Projects
-
-### 🛡️ AI Pentest LLM Security Model
-- Built an LLM-powered automated penetration testing assistant  
-- Integrated RAG for contextual vulnerability analysis  
-- Designed AI-driven threat intelligence workflows  
-
----
-
-### 🎙️ Advanced AI Voice Assistant (LLM-Based)
-- Developed contextual NLP voice assistant  
-- Built modular FastAPI backend architecture  
-- Integrated secure API validation and orchestration logic  
-
----
-
-### 🔍 Practical Cybersecurity & Vulnerability Research
-- Conducted real-world penetration testing labs  
-- Exploited SQL Injection, XSS, and authentication bypass cases  
-- Documented attack methodologies & remediation strategies  
-
----
-
-## 🎓 Education
-
-Bachelor of Computer Applications (BCA)  
-Pilathara Co-op Arts & Science College  
-2022 – 2025  
-
----
-
-## 📜 Certifications
-
-- Cisco Certified Ethical Hacker (2026)  
-- Cisco CyberThreat Management (2025)  
-- Cyber Security Internship (2025)  
-- DevOps Engineer (2025)  
-- Backend Developer (2024)  
-- UI Engineer (2023)  
-- Web Application Developer (2025)  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
-</p>
-
----
-
-## ⚡ Focus Areas
-
-- Secure AI Architecture  
-- AI-Powered Offensive Security Automation  
-- LLM Risk & Exploit Analysis  
-- Intelligent Threat Detection Systems  
-- Responsible AI Practices  
+</div>
 
 ---
