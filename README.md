@@ -10,7 +10,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 
 <div align="left">
   <img align="right" width="330" 
-src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
 
   <p>
     I build secure AI-powered systems focused on threat detection, vulnerability analysis, 
