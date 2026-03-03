@@ -9,7 +9,8 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 <h3>AI • Cybersecurity • Secure Systems Engineering</h3>
 
 <div align="left">
-  <img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g4eGJ4eWQ2eTVxOXE3Z2p3ZGFxZXE5dTB0a2VqYzF3b2Z1a2Q3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" />
+  <img align="right" width="330" 
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
   <p>
     I build secure AI-powered systems focused on threat detection, vulnerability analysis, 
