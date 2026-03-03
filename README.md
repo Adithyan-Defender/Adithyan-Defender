@@ -1,4 +1,5 @@
-<img align="center" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Adithyan%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img align="center" 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Adithyan%20M&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=35&desc=AI%20•%20Cybersecurity%20•%20Secure%20Systems&descAlignY=55&descSize=18" />
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
