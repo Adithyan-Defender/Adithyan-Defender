@@ -9,8 +9,8 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 <h3>AI • Cybersecurity • Secure Systems Engineering</h3>
 
 <div align="left">
-  <img align="right" width="330" 
-src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
+  <img align="center"
+src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00f5ff&height=240&section=header&text=Adithyan%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Security%20•%20LLM%20Systems%20•%20Cyber%20Engineering&descAlignY=60&descSize=20" />
 
   <p>
     I build secure AI-powered systems focused on threat detection, vulnerability analysis, 
