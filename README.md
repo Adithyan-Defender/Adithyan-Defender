@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a192f,100:0d0d0d&height=220&section=header&text=Adithyan%20M&fontSize=62&fontColor=64ffda&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20LLM%20Development%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20Security&descAlignY=62&descSize=15&descColor=8892b0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a192f,100:0d0d0d&height=220&section=header&text=Adithyan%20M&fontSize=62&fontColor=64ffda&animation=fadeIn&fontAlignY=40&desc=AI%20and%20LLM%20Development%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20Security&descAlignY=62&descSize=15&descColor=8892b0" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=AI+%26+LLM+Development+%7C+Automation+%7C+Secure+AI;RAG+Pipelines+%2B+Agents+%2B+Evaluation;AI+Security+%7C+Red-Teaming+%7C+Threat+Detection" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=AI+and+LLM+Development+%7C+Automation+%7C+Secure+AI;RAG+Pipelines+%2B+Agents+%2B+Evaluation;AI+Security+%7C+Red-Teaming+%7C+Threat+Detection" />
 </div>
 
 <br/>
