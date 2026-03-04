@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Gmail-itsadithyanm-0a192f?style=flat-square&logo=gmail&logoColor=64ffda&labelColor=0a192f&color=0a192f"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=adhitappu&style=flat-square&color=64ffda&labelColor=0a192f&label=views"/>
+  <img src="https://komarev.com/ghpvc/?username=adithyan-defender&style=flat-square&color=64ffda&labelColor=0a192f&label=views"/>
 </div>
 
 <br/>
