@@ -1,35 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Adithyan%20M&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Cyber%20Engineering&descAlignY=60&descSize=16&descColor=ffffffcc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a192f,100:0d0d0d&height=220&section=header&text=Adithyan%20M&fontSize=62&fontColor=64ffda&animation=fadeIn&fontAlignY=40&desc=AI%20Security%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Cyber%20Engineering&descAlignY=62&descSize=15&descColor=8892b0" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=AI+Security+%7C+LLM+Red-Teaming+%7C+Secure+Systems;Prompt+Injection+%E2%80%A2+RAG+Security+%E2%80%A2+Threat+Detection;Building+secure%2C+production-grade+AI+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=AI+Security+%7C+LLM+Red-Teaming+%7C+Secure+Systems;Prompt+Injection+%E2%80%A2+RAG+Security+%E2%80%A2+Threat+Detection;Building+secure%2C+production-grade+AI+systems" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:itsadithyanm@gmail.com"><img src="https://img.shields.io/badge/Gmail-itsadithyanm-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adithyan-m-74a96b268/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adithyan%20M-0a192f?style=flat-square&logo=linkedin&logoColor=64ffda&labelColor=0a192f&color=0a192f"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Kerala%2C%20India-📍-1a1a2e?style=flat-square"/>
+  <a href="https://github.com/Adithyan-Defender">
+    <img src="https://img.shields.io/badge/GitHub-Adithyan--Defender-0a192f?style=flat-square&logo=github&logoColor=64ffda&labelColor=0a192f&color=0a192f"/>
+  </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=adhitappu&style=flat-square&color=6EE7F7&label=views"/>
+  <a href="mailto:itsadithyanm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-itsadithyanm-0a192f?style=flat-square&logo=gmail&logoColor=64ffda&labelColor=0a192f&color=0a192f"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=adhitappu&style=flat-square&color=64ffda&labelColor=0a192f&label=views"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=800&color=8892B0&center=true&vCenter=true&width=420&lines=⟫+initializing+secure+connection...+%E2%9C%93;⟫+loading+threat+intelligence...+%E2%9C%93;⟫+access+granted.+welcome.+_" />
+</div>
+
+<br/>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</picture>
+
 ---
 
-### 👤 About
+### `$ whoami`
 
-I build **secure AI-powered systems** — combining LLMs, penetration testing, and backend engineering to create systems that are intelligent, resilient, and auditable.
+I build **secure AI-powered systems** — combining LLMs, penetration testing, and backend engineering to create systems that are **intelligent, resilient, and auditable**.
 
-- 🔐 LLM Security, prompt injection, agent & tool exploitation
-- 🧪 Secure RAG pipelines with data boundaries & retrieval filtering
-- 🌐 OWASP-based web/API pentesting & secure architecture
-- 📡 Detection engineering, SIEM-style monitoring & incident response
+```
+  ┌─ focus areas ──────────────────────────────────────────┐
+  │  🔐  LLM Security · prompt injection · agent abuse     │
+  │  🧪  Secure RAG · retrieval filtering · data boundaries │
+  │  🌐  OWASP · Web/API pentesting · secure architecture   │
+  │  📡  Detection engineering · SIEM · incident response   │
+  └────────────────────────────────────────────────────────┘
+```
+
+<picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</picture>
 
 ---
 
-### ⚙️ Tech Stack
+### `$ cat stack.sh`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,django,postgresql,docker,linux,git,react,bash&theme=dark&perline=10"/>
@@ -40,48 +68,80 @@ I build **secure AI-powered systems** — combining LLMs, penetration testing, a
 <div align="center">
 
 | Domain | Tools |
-|--------|-------|
-| **AI / LLM** | PyTorch · RAG · LangChain · Guardrails · Eval |
-| **Security** | OWASP · Web/API Pentesting · Threat Modeling |
-| **Backend** | FastAPI · Django · PostgreSQL · Secure Auth |
-| **Infra** | Docker · Linux · CI/CD · Least-Privilege |
+|:------:|:------|
+| 🤖 **AI / LLM** | PyTorch · RAG · LangChain · Guardrails · Evaluation |
+| 🔐 **Security** | OWASP · Web/API Pentesting · Threat Modeling · Hardening |
+| ⚙️ **Backend** | FastAPI · Django · PostgreSQL · Secure Auth · Observability |
+| 🏗️ **Infra** | Docker · Linux · CI/CD · Least-Privilege Deployments |
 
 </div>
 
+<picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</picture>
+
 ---
 
-### 🚀 Selected Projects
+### `$ ls projects/`
 
-**🤖 AI Pentest / LLM Security Model**
+<br/>
+
+> **🤖 AI Pentest / LLM Security Model**
 > LLM-powered automated pentesting with RAG-assisted context building, structured findings, and security-first orchestration.
+> `Python` `LangChain` `FastAPI` `RAG` `Docker`
 
-**🎙️ Secure AI Voice Assistant**
+<br/>
+
+> **🎙️ Secure AI Voice Assistant**
 > FastAPI backend with LLM orchestration, input validation, policy enforcement, and full observability for traces & auditing.
+> `FastAPI` `PyTorch` `PostgreSQL` `OAuth2` `Docker`
 
-**🔍 Vulnerability Research**
+<br/>
+
+> **🔍 Vulnerability Research**
 > Hands-on exploitation & remediation — SQLi, XSS, auth bypass, misconfigurations, and insecure defaults.
+> `Burp Suite` `OWASP ZAP` `SQLMap` `Python`
+
+<picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</picture>
 
 ---
 
-### 📊 Stats
+### `$ ./metrics.sh`
+
+<br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adhitappu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=cdd6f4&rank_icon=github"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhitappu&layout=compact&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=cdd6f4&langs_count=7"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adhitappu&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&rank_icon=github"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhitappu&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&langs_count=7"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhitappu&theme=transparent&hide_border=true&background=0d1117&ring=6EE7F7&fire=6EE7F7&currStreakLabel=6EE7F7&dates=888" width="65%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhitappu&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=ccd6f6&currStreakNum=ccd6f6" width="65%"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhitappu&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=64ffda20&hide_border=true" width="97%"/>
+</div>
+
+<br/>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</picture>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a192f,100:0d0d0d&height=110&section=footer&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <sub><i>Security is a process — intelligence makes it scalable.</i></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=8892B0&center=true&vCenter=true&width=520&lines=Security+is+a+process+%E2%80%94+intelligence+makes+it+scalable." />
 </div>
