@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=AI+Security+%7C+LLM+Red-Teaming+%7C+Secure+Systems;Prompt+Injection+%E2%80%A2+RAG+Security+%E2%80%A2+Threat+Detection;Building+secure%2C+production-grade+AI+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=AI+Security+%7C+LLM+Red-Teaming+%7C+Secure+Systems;Prompt+Injection+%2B+RAG+Security+%2B+Threat+Detection;Building+secure%2C+production-grade+AI+systems" />
 </div>
 
 <br/>
@@ -27,14 +27,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=800&color=8892B0&center=true&vCenter=true&width=420&lines=⟫+initializing+secure+connection...+%E2%9C%93;⟫+loading+threat+intelligence...+%E2%9C%93;⟫+access+granted.+welcome.+_" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=800&color=8892B0&center=true&vCenter=true&width=440&lines=initializing+secure+connection...+%5BDONE%5D;loading+threat+intelligence...+%5BDONE%5D;access+granted.+welcome+_" />
 </div>
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ---
 
@@ -44,16 +42,14 @@ I build **secure AI-powered systems** — combining LLMs, penetration testing, a
 
 ```
   ┌─ focus areas ──────────────────────────────────────────┐
-  │  🔐  LLM Security · prompt injection · agent abuse     │
-  │  🧪  Secure RAG · retrieval filtering · data boundaries │
-  │  🌐  OWASP · Web/API pentesting · secure architecture   │
-  │  📡  Detection engineering · SIEM · incident response   │
+  │  🔐  LLM Security  ·  prompt injection  ·  agent abuse  │
+  │  🧪  Secure RAG  ·  retrieval filtering  ·  data bounds  │
+  │  🌐  OWASP  ·  Web/API pentesting  ·  secure arch        │
+  │  📡  Detection engineering  ·  SIEM  ·  incident resp    │
   └────────────────────────────────────────────────────────┘
 ```
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ---
 
@@ -76,9 +72,7 @@ I build **secure AI-powered systems** — combining LLMs, penetration testing, a
 
 </div>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ---
 
@@ -102,9 +96,7 @@ I build **secure AI-powered systems** — combining LLMs, penetration testing, a
 > Hands-on exploitation & remediation — SQLi, XSS, auth bypass, misconfigurations, and insecure defaults.
 > `Burp Suite` `OWASP ZAP` `SQLMap` `Python`
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ---
 
@@ -132,9 +124,7 @@ I build **secure AI-powered systems** — combining LLMs, penetration testing, a
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <br/>
 
@@ -143,5 +133,5 @@ I build **secure AI-powered systems** — combining LLMs, penetration testing, a
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=8892B0&center=true&vCenter=true&width=520&lines=Security+is+a+process+%E2%80%94+intelligence+makes+it+scalable." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=8892B0&center=true&vCenter=true&width=540&lines=Security+is+a+process+%E2%80%94+intelligence+makes+it+scalable." />
 </div>
